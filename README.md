@@ -1,1 +1,1 @@
-# machine_lerning
+# machine_learning
